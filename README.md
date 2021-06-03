@@ -28,3 +28,8 @@ Other hobbies include:
 - 💬 Ask me about red teaming and adversary emulation, cars (expertise on e36 and e46 chassis BMW `///M` cars), rum, or memes.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am the current reigning champion for the NRSCCA E-Modified racing class .
+
+![SecurityShrimp's GitHub stats](https://github-readme-stats.vercel.app/api?username=f8al&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f8al&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
