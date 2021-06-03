@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 
 My name is Skip, but you probably know me as [@SecurityShrimp](https://twitter.com./securityshrimp).
 
-I'm a Red/Purple teamer and currently work in adversary simulation in the biomedical industry.
-In a past life I was a high-availability large ingest Splunk Security Architect.
+- I'm a Red/Purple teamer and currently work in adversary simulation in the biomedical industry.
+- In a past life I was a high-availability large ingest Splunk Security Architect.
 
 My main hobby is 🏎car racing🏎, and I own a BMW racing company, [Team Verb Racing](http://teamverbracing.com).
 Other hobbies include:
