@@ -21,10 +21,10 @@ Other hobbies include:
 * Guns
 * Video games
 
-- 🔭 I’m currently working on adding trainable neural network support to [DNSrazzle](https://github.com/f8al/DNSrazzle).
-- 🌱 I’m currently learning how to train and interact with neural networks via python.
+- 🔭 I’m currently working on adding newly requested features to [DNSrazzle](https://github.com/f8al/DNSrazzle).
+- 🌱 I’m currently learning about the VB WRX platform.
 - 👯 I’m looking to collaborate on any python projects in the offensive cyber security space.
-- 🤔 I’m looking for help with implementing and training neural networks to integrate them with [DNSrazzle](https://github.com/f8al/DNSrazzle).
+- 🤔 I’m looking for help with creating a webapp interface to integrate  with [DNSrazzle](https://github.com/f8al/DNSrazzle).
 - 💬 Ask me about red teaming and adversary emulation, cars (expertise on e36 and e46 chassis BMW `///M` cars), rum, or memes.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am the current reigning champion for the NRSCCA E-Modified racing class .
