@@ -11,7 +11,7 @@ My name is Skip, but you probably know me as [@SecurityShrimp](https://twitter.c
 
 - I'm a Red/Purple teamer and currently work in adversary simulation in the biomedical industry.
 - In a past life I was a high-availability large ingest Splunk Security Architect.
-- - The cluster I architected, built, maintained, and administered was used in splunks marketing information as "the worlds largest non government splunk cluster"
+  - The cluster I architected, built, maintained, and administered was used in splunks marketing information as "the worlds largest non government splunk cluster"
 
 My main hobby is 🏎car racing🏎, and I own a BMW racing company, [Team Verb Racing](http://teamverbracing.com).
 Other hobbies include:
