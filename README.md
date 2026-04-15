@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 My name is Skip, but you probably know me as [@SecurityShrimp](https://twitter.com./securityshrimp).
 
-- I'm a Red/Purple teamer and currently work in adversary simulation in the biomedical industry.
+- I'm the Principal for adversary simulation at a biomedical firm, The Principal for offensive security for a consulting firm, and I run my own offensive cybersecurity company, [SecurityShrimp LTD](https://www.securityshrimp.com).
 - In a past life I was a high-availability large ingest Splunk Security Architect.
   - The cluster I architected, built, maintained, and administered was used in splunks marketing information as "the worlds largest non government splunk cluster"
 
